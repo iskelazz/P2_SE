@@ -144,12 +144,13 @@ void (* const g_pfnVectors[])(void) =
 //!
 //! \return None.
 //*****************************************************************************
+#include <system_MKL46Z4.h>
 void Default_ResetHandler(void)
 {
   unsigned long *pulSrc, *pulDest;
 
   /* Disable the watchdog */
-  *((volatile unsigned int *)0x40048100) = 0x00u;
+  SystemInit();
 
 
   /* copy the data segment initializers from flash to SRAM */

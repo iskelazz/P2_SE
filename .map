@@ -1,0 +1,2020 @@
+Archive member included because of file (symbol)
+
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+                              led_blinky.o (__aeabi_uidiv)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+                              drivers/fsl_str.o (__aeabi_idiv)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-exit.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-init.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o)
+                              drivers/fsl_common.o (malloc)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+                              drivers/fsl_ftfx_cache.o (memcpy)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-freer.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o) (_free_r)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o) (_malloc_r)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-sbrkr.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+                              drivers/fsl_str.o (strlen)
+/root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+                              /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-sbrkr.o) (errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+g_xtal32Freq        0x4               drivers/fsl_clock.o
+g_systickCounter    0x4               led_blinky.o
+g_xtal0Freq         0x4               drivers/fsl_clock.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .init          0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .fini          0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .ARM.attributes
+                0x00000000       0x1e /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .text          0x00000000       0x60 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .data          0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .bss           0x00000000       0x1c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .init_array    0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .fini_array    0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .jcr           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .text          0x00000000       0x78 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .group         0x00000000        0x8 led_blinky.o
+ .data          0x00000000        0x0 led_blinky.o
+ .bss           0x00000000        0x0 led_blinky.o
+ .group         0x00000000        0x8 startup.o
+ .group         0x00000000        0x8 startup.o
+ .group         0x00000000        0x8 startup.o
+ .group         0x00000000        0x8 startup.o
+ .group         0x00000000        0x8 startup.o
+ .group         0x00000000        0x8 startup.o
+ .data          0x00000000        0x0 startup.o
+ .bss           0x00000000        0x0 startup.o
+ .debug_macro   0x00000000      0x826 startup.o
+ .debug_macro   0x00000000       0x22 startup.o
+ .debug_macro   0x00000000       0x1c startup.o
+ .debug_macro   0x00000000      0x1f7 startup.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .group         0x00000000        0x8 pin_mux_led.o
+ .data          0x00000000        0x0 pin_mux_led.o
+ .bss           0x00000000        0x0 pin_mux_led.o
+ .debug_macro   0x00000000      0x826 pin_mux_led.o
+ .debug_macro   0x00000000       0x58 pin_mux_led.o
+ .debug_macro   0x00000000       0x22 pin_mux_led.o
+ .debug_macro   0x00000000       0x35 pin_mux_led.o
+ .debug_macro   0x00000000       0x9c pin_mux_led.o
+ .debug_macro   0x00000000       0x16 pin_mux_led.o
+ .debug_macro   0x00000000       0x22 pin_mux_led.o
+ .debug_macro   0x00000000       0x4a pin_mux_led.o
+ .debug_macro   0x00000000       0x1c pin_mux_led.o
+ .debug_macro   0x00000000      0x1f7 pin_mux_led.o
+ .debug_macro   0x00000000      0x166 pin_mux_led.o
+ .debug_macro   0x00000000       0x52 pin_mux_led.o
+ .debug_macro   0x00000000       0x16 pin_mux_led.o
+ .debug_macro   0x00000000       0x43 pin_mux_led.o
+ .debug_macro   0x00000000      0x180 pin_mux_led.o
+ .debug_macro   0x00000000      0x29d pin_mux_led.o
+ .debug_macro   0x00000000       0x10 pin_mux_led.o
+ .debug_macro   0x00000000       0x35 pin_mux_led.o
+ .debug_macro   0x00000000       0x16 pin_mux_led.o
+ .debug_macro   0x00000000       0x22 pin_mux_led.o
+ .debug_macro   0x00000000       0x10 pin_mux_led.o
+ .debug_macro   0x00000000       0x3f pin_mux_led.o
+ .debug_macro   0x00000000       0x1c pin_mux_led.o
+ .debug_macro   0x00000000       0x22 pin_mux_led.o
+ .debug_macro   0x00000000       0xd1 pin_mux_led.o
+ .debug_macro   0x00000000      0x3ad pin_mux_led.o
+ .debug_macro   0x00000000       0x38 pin_mux_led.o
+ .debug_macro   0x00000000     0x87f8 pin_mux_led.o
+ .debug_macro   0x00000000     0x121a pin_mux_led.o
+ .debug_macro   0x00000000       0x52 pin_mux_led.o
+ .debug_macro   0x00000000      0x10a pin_mux_led.o
+ .debug_macro   0x00000000       0x74 pin_mux_led.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .group         0x00000000        0x8 drivers/board.o
+ .text          0x00000000       0x38 drivers/board.o
+ .data          0x00000000        0x0 drivers/board.o
+ .bss           0x00000000        0x0 drivers/board.o
+ .debug_info    0x00000000      0x4d1 drivers/board.o
+ .debug_abbrev  0x00000000      0x1ac drivers/board.o
+ .debug_loc     0x00000000       0x1e drivers/board.o
+ .debug_aranges
+                0x00000000       0x20 drivers/board.o
+ .debug_macro   0x00000000      0x1e6 drivers/board.o
+ .debug_macro   0x00000000      0x826 drivers/board.o
+ .debug_macro   0x00000000       0x22 drivers/board.o
+ .debug_macro   0x00000000       0x44 drivers/board.o
+ .debug_macro   0x00000000       0x1c drivers/board.o
+ .debug_macro   0x00000000      0x1f7 drivers/board.o
+ .debug_macro   0x00000000       0x58 drivers/board.o
+ .debug_macro   0x00000000       0x35 drivers/board.o
+ .debug_macro   0x00000000       0x9c drivers/board.o
+ .debug_macro   0x00000000       0x16 drivers/board.o
+ .debug_macro   0x00000000       0x22 drivers/board.o
+ .debug_macro   0x00000000      0x166 drivers/board.o
+ .debug_macro   0x00000000       0x52 drivers/board.o
+ .debug_macro   0x00000000       0x16 drivers/board.o
+ .debug_macro   0x00000000       0x43 drivers/board.o
+ .debug_macro   0x00000000      0x180 drivers/board.o
+ .debug_macro   0x00000000      0x29d drivers/board.o
+ .debug_macro   0x00000000       0x10 drivers/board.o
+ .debug_macro   0x00000000       0x35 drivers/board.o
+ .debug_macro   0x00000000       0x16 drivers/board.o
+ .debug_macro   0x00000000       0x22 drivers/board.o
+ .debug_macro   0x00000000       0x10 drivers/board.o
+ .debug_macro   0x00000000       0x3f drivers/board.o
+ .debug_macro   0x00000000       0x1c drivers/board.o
+ .debug_macro   0x00000000       0x22 drivers/board.o
+ .debug_macro   0x00000000       0xd1 drivers/board.o
+ .debug_macro   0x00000000      0x3ad drivers/board.o
+ .debug_macro   0x00000000       0x38 drivers/board.o
+ .debug_macro   0x00000000     0x87f8 drivers/board.o
+ .debug_macro   0x00000000     0x121a drivers/board.o
+ .debug_macro   0x00000000       0x52 drivers/board.o
+ .debug_macro   0x00000000      0x10a drivers/board.o
+ .debug_macro   0x00000000       0x74 drivers/board.o
+ .debug_macro   0x00000000       0x16 drivers/board.o
+ .debug_macro   0x00000000       0x1c drivers/board.o
+ .debug_macro   0x00000000       0x10 drivers/board.o
+ .debug_macro   0x00000000      0x15b drivers/board.o
+ .debug_macro   0x00000000       0x2e drivers/board.o
+ .debug_line    0x00000000      0x389 drivers/board.o
+ .debug_str     0x00000000    0x4c0a9 drivers/board.o
+ .comment       0x00000000       0x71 drivers/board.o
+ .debug_frame   0x00000000       0x28 drivers/board.o
+ .ARM.attributes
+                0x00000000       0x32 drivers/board.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/clock_config.o
+ .text          0x00000000       0xd0 drivers/clock_config.o
+ .data          0x00000000        0x0 drivers/clock_config.o
+ .bss           0x00000000        0x0 drivers/clock_config.o
+ .rodata        0x00000000       0x38 drivers/clock_config.o
+ .debug_info    0x00000000      0xcf1 drivers/clock_config.o
+ .debug_abbrev  0x00000000      0x2a7 drivers/clock_config.o
+ .debug_loc     0x00000000       0x21 drivers/clock_config.o
+ .debug_aranges
+                0x00000000       0x20 drivers/clock_config.o
+ .debug_macro   0x00000000      0x1ea drivers/clock_config.o
+ .debug_macro   0x00000000      0x826 drivers/clock_config.o
+ .debug_macro   0x00000000       0x58 drivers/clock_config.o
+ .debug_macro   0x00000000       0x22 drivers/clock_config.o
+ .debug_macro   0x00000000       0x35 drivers/clock_config.o
+ .debug_macro   0x00000000       0x9c drivers/clock_config.o
+ .debug_macro   0x00000000       0x16 drivers/clock_config.o
+ .debug_macro   0x00000000       0x22 drivers/clock_config.o
+ .debug_macro   0x00000000       0x4a drivers/clock_config.o
+ .debug_macro   0x00000000       0x1c drivers/clock_config.o
+ .debug_macro   0x00000000      0x1f7 drivers/clock_config.o
+ .debug_macro   0x00000000      0x166 drivers/clock_config.o
+ .debug_macro   0x00000000       0x52 drivers/clock_config.o
+ .debug_macro   0x00000000       0x16 drivers/clock_config.o
+ .debug_macro   0x00000000       0x43 drivers/clock_config.o
+ .debug_macro   0x00000000      0x180 drivers/clock_config.o
+ .debug_macro   0x00000000      0x29d drivers/clock_config.o
+ .debug_macro   0x00000000       0x10 drivers/clock_config.o
+ .debug_macro   0x00000000       0x35 drivers/clock_config.o
+ .debug_macro   0x00000000       0x16 drivers/clock_config.o
+ .debug_macro   0x00000000       0x22 drivers/clock_config.o
+ .debug_macro   0x00000000       0x10 drivers/clock_config.o
+ .debug_macro   0x00000000       0x3f drivers/clock_config.o
+ .debug_macro   0x00000000       0x1c drivers/clock_config.o
+ .debug_macro   0x00000000       0x22 drivers/clock_config.o
+ .debug_macro   0x00000000       0xd1 drivers/clock_config.o
+ .debug_macro   0x00000000      0x3ad drivers/clock_config.o
+ .debug_macro   0x00000000       0x38 drivers/clock_config.o
+ .debug_macro   0x00000000     0x87f8 drivers/clock_config.o
+ .debug_macro   0x00000000     0x121a drivers/clock_config.o
+ .debug_macro   0x00000000       0x52 drivers/clock_config.o
+ .debug_macro   0x00000000      0x10a drivers/clock_config.o
+ .debug_macro   0x00000000       0x74 drivers/clock_config.o
+ .debug_macro   0x00000000       0x1c drivers/clock_config.o
+ .debug_line    0x00000000      0x3a1 drivers/clock_config.o
+ .debug_str     0x00000000    0x4c3a5 drivers/clock_config.o
+ .comment       0x00000000       0x71 drivers/clock_config.o
+ .debug_frame   0x00000000       0x50 drivers/clock_config.o
+ .ARM.attributes
+                0x00000000       0x32 drivers/clock_config.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_assert.o
+ .data          0x00000000        0x0 drivers/fsl_assert.o
+ .bss           0x00000000        0x0 drivers/fsl_assert.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_assert.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_assert.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_assert.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_assert.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_assert.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_assert.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_assert.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_assert.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_assert.o
+ .debug_macro   0x00000000       0x2e drivers/fsl_assert.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_clock.o
+ .text          0x00000000      0xe00 drivers/fsl_clock.o
+ .data          0x00000000        0x8 drivers/fsl_clock.o
+ .bss           0x00000000        0x0 drivers/fsl_clock.o
+ .rodata        0x00000000      0x14c drivers/fsl_clock.o
+ .rodata.str1.4
+                0x00000000       0x44 drivers/fsl_clock.o
+ .debug_info    0x00000000     0x1f5d drivers/fsl_clock.o
+ .debug_abbrev  0x00000000      0x3d7 drivers/fsl_clock.o
+ .debug_loc     0x00000000     0x116c drivers/fsl_clock.o
+ .debug_aranges
+                0x00000000       0x20 drivers/fsl_clock.o
+ .debug_macro   0x00000000      0x273 drivers/fsl_clock.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_clock.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_clock.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_clock.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_clock.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_clock.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_clock.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_clock.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_clock.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_clock.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_clock.o
+ .debug_line    0x00000000      0x6c6 drivers/fsl_clock.o
+ .debug_str     0x00000000    0x4d477 drivers/fsl_clock.o
+ .comment       0x00000000       0x71 drivers/fsl_clock.o
+ .debug_frame   0x00000000      0x4a8 drivers/fsl_clock.o
+ .ARM.attributes
+                0x00000000       0x32 drivers/fsl_clock.o
+ COMMON         0x00000000        0x8 drivers/fsl_clock.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_common.o
+ .text          0x00000000       0x50 drivers/fsl_common.o
+ .data          0x00000000        0x0 drivers/fsl_common.o
+ .bss           0x00000000        0x0 drivers/fsl_common.o
+ .debug_info    0x00000000      0x29f drivers/fsl_common.o
+ .debug_abbrev  0x00000000      0x14e drivers/fsl_common.o
+ .debug_loc     0x00000000      0x1bd drivers/fsl_common.o
+ .debug_aranges
+                0x00000000       0x20 drivers/fsl_common.o
+ .debug_macro   0x00000000      0x1b9 drivers/fsl_common.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_common.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_common.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_common.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_common.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_common.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_common.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_common.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_common.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_common.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_common.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_common.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_common.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_common.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_common.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_common.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_common.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_common.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_common.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_common.o
+ .debug_line    0x00000000      0x344 drivers/fsl_common.o
+ .debug_str     0x00000000    0x4b5e6 drivers/fsl_common.o
+ .comment       0x00000000       0x71 drivers/fsl_common.o
+ .debug_frame   0x00000000       0x44 drivers/fsl_common.o
+ .ARM.attributes
+                0x00000000       0x32 drivers/fsl_common.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_debug_console.o
+ .data          0x00000000        0x0 drivers/fsl_debug_console.o
+ .bss           0x00000000        0x0 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_debug_console.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_debug_console.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_debug_console.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_debug_console.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_cache.o
+ .text          0x00000000       0xdc drivers/fsl_ftfx_cache.o
+ .data          0x00000000        0x0 drivers/fsl_ftfx_cache.o
+ .bss           0x00000000       0x40 drivers/fsl_ftfx_cache.o
+ .rodata        0x00000000       0x1c drivers/fsl_ftfx_cache.o
+ .debug_info    0x00000000      0x78c drivers/fsl_ftfx_cache.o
+ .debug_abbrev  0x00000000      0x222 drivers/fsl_ftfx_cache.o
+ .debug_loc     0x00000000      0x17c drivers/fsl_ftfx_cache.o
+ .debug_aranges
+                0x00000000       0x20 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x217 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000      0x26a drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x2e drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x7c drivers/fsl_ftfx_cache.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_ftfx_cache.o
+ .debug_line    0x00000000      0x3f8 drivers/fsl_ftfx_cache.o
+ .debug_str     0x00000000    0x4d786 drivers/fsl_ftfx_cache.o
+ .comment       0x00000000       0x71 drivers/fsl_ftfx_cache.o
+ .debug_frame   0x00000000       0x90 drivers/fsl_ftfx_cache.o
+ .ARM.attributes
+                0x00000000       0x32 drivers/fsl_ftfx_cache.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_ftfx_controller.o
+ .text          0x00000000      0x728 drivers/fsl_ftfx_controller.o
+ .data          0x00000000        0x0 drivers/fsl_ftfx_controller.o
+ .bss           0x00000000       0x40 drivers/fsl_ftfx_controller.o
+ .rodata        0x00000000        0xc drivers/fsl_ftfx_controller.o
+ .debug_info    0x00000000     0x1535 drivers/fsl_ftfx_controller.o
+ .debug_abbrev  0x00000000      0x2b5 drivers/fsl_ftfx_controller.o
+ .debug_loc     0x00000000     0x1259 drivers/fsl_ftfx_controller.o
+ .debug_aranges
+                0x00000000       0x20 drivers/fsl_ftfx_controller.o
+ .debug_ranges  0x00000000       0x30 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x25b drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000      0x26a drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x2e drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x7c drivers/fsl_ftfx_controller.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_ftfx_controller.o
+ .debug_line    0x00000000      0x5c9 drivers/fsl_ftfx_controller.o
+ .debug_str     0x00000000    0x4df07 drivers/fsl_ftfx_controller.o
+ .comment       0x00000000       0x71 drivers/fsl_ftfx_controller.o
+ .debug_frame   0x00000000      0x264 drivers/fsl_ftfx_controller.o
+ .ARM.attributes
+                0x00000000       0x32 drivers/fsl_ftfx_controller.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_gpio.o
+ .data          0x00000000        0x0 drivers/fsl_gpio.o
+ .bss           0x00000000        0x0 drivers/fsl_gpio.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_gpio.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_gpio.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_gpio.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_gpio.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_gpio.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_gpio.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_gpio.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_gpio.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_gpio.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_gpio.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_io.o
+ .data          0x00000000        0x0 drivers/fsl_io.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_io.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_io.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_io.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_io.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_io.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_io.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_io.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_io.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_io.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_io.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_io.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_io.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_io.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_io.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_io.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_io.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_io.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_io.o
+ .debug_macro   0x00000000       0x57 drivers/fsl_io.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_log.o
+ .data          0x00000000        0x0 drivers/fsl_log.o
+ .bss           0x00000000        0x0 drivers/fsl_log.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_log.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_log.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_log.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_log.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_log.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_log.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_log.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_log.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_log.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_log.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_log.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_log.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_log.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_log.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_log.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_log.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_log.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_log.o
+ .debug_macro   0x00000000       0x57 drivers/fsl_log.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_lpsci.o
+ .data          0x00000000        0x0 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_lpsci.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_lpsci.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_lpsci.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_lpsci.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_smc.o
+ .text          0x00000000      0x1e8 drivers/fsl_smc.o
+ .data          0x00000000        0x0 drivers/fsl_smc.o
+ .bss           0x00000000        0x4 drivers/fsl_smc.o
+ .rodata        0x00000000        0x4 drivers/fsl_smc.o
+ .debug_info    0x00000000      0xaf9 drivers/fsl_smc.o
+ .debug_abbrev  0x00000000      0x2be drivers/fsl_smc.o
+ .debug_loc     0x00000000      0x24b drivers/fsl_smc.o
+ .debug_aranges
+                0x00000000       0x20 drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x210 drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_smc.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_smc.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_smc.o
+ .debug_macro   0x00000000      0x26a drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x2e drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x7c drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_smc.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_smc.o
+ .debug_line    0x00000000      0x502 drivers/fsl_smc.o
+ .debug_str     0x00000000    0x4d632 drivers/fsl_smc.o
+ .comment       0x00000000       0x71 drivers/fsl_smc.o
+ .debug_frame   0x00000000       0xe8 drivers/fsl_smc.o
+ .ARM.attributes
+                0x00000000       0x32 drivers/fsl_smc.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_str.o
+ .data          0x00000000        0x0 drivers/fsl_str.o
+ .bss           0x00000000        0x0 drivers/fsl_str.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_str.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_str.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_str.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_str.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_str.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_str.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_str.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_str.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_str.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_str.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_str.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_str.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_str.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_str.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_str.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_str.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_str.o
+ .debug_macro   0x00000000       0x57 drivers/fsl_str.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/fsl_uart.o
+ .data          0x00000000        0x0 drivers/fsl_uart.o
+ .debug_macro   0x00000000      0x826 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x58 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x9c drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x4a drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_uart.o
+ .debug_macro   0x00000000      0x1f7 drivers/fsl_uart.o
+ .debug_macro   0x00000000      0x166 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x43 drivers/fsl_uart.o
+ .debug_macro   0x00000000      0x180 drivers/fsl_uart.o
+ .debug_macro   0x00000000      0x29d drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x35 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x16 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x10 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x3f drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x1c drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x22 drivers/fsl_uart.o
+ .debug_macro   0x00000000       0xd1 drivers/fsl_uart.o
+ .debug_macro   0x00000000      0x3ad drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x38 drivers/fsl_uart.o
+ .debug_macro   0x00000000     0x87f8 drivers/fsl_uart.o
+ .debug_macro   0x00000000     0x121a drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x52 drivers/fsl_uart.o
+ .debug_macro   0x00000000      0x10a drivers/fsl_uart.o
+ .debug_macro   0x00000000       0x74 drivers/fsl_uart.o
+ .group         0x00000000        0x8 drivers/peripherals.o
+ .text          0x00000000        0x4 drivers/peripherals.o
+ .data          0x00000000        0x0 drivers/peripherals.o
+ .bss           0x00000000        0x0 drivers/peripherals.o
+ .debug_info    0x00000000       0x3b drivers/peripherals.o
+ .debug_abbrev  0x00000000       0x2f drivers/peripherals.o
+ .debug_aranges
+                0x00000000       0x20 drivers/peripherals.o
+ .debug_macro   0x00000000       0x1b drivers/peripherals.o
+ .debug_macro   0x00000000      0x826 drivers/peripherals.o
+ .debug_line    0x00000000       0x57 drivers/peripherals.o
+ .debug_str     0x00000000     0x233c drivers/peripherals.o
+ .comment       0x00000000       0x71 drivers/peripherals.o
+ .debug_frame   0x00000000       0x20 drivers/peripherals.o
+ .ARM.attributes
+                0x00000000       0x32 drivers/peripherals.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .group         0x00000000        0x8 drivers/system_MKL46Z4.o
+ .bss           0x00000000        0x0 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000      0x826 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000       0x22 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000       0x44 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000       0x1c drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000      0x1f7 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000       0x10 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000       0x3f drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000       0x1c drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000       0x22 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000      0x3ad drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000       0x38 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000     0x87f8 drivers/system_MKL46Z4.o
+ .debug_macro   0x00000000     0x121a drivers/system_MKL46Z4.o
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x00000000        0x2 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x4c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o)
+ .text.malloc   0x00000000       0x14 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x14 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000000       0x40 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .text.memcpy   0x00000000       0x12 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000       0x28 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x00000000       0x8c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x00000000       0xb0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xcc /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x48 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+ COMMON         0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .eh_frame      0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .jcr           0x00000000        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .text          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .data          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .bss           0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .init          0x00000000        0x8 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .fini          0x00000000        0x8 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .ARM.attributes
+                0x00000000       0x1e /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+INTERRUPTS       0x00000000         0x00000100         xr
+FLASH_CONFIG     0x00000400         0x00000010         xr
+TEXT             0x00000410         0x0003fbf0         xr
+RAM              0x1fffe000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD led_blinky.o
+LOAD startup.o
+LOAD pin_mux_led.o
+LOAD drivers/board.o
+LOAD drivers/clock_config.o
+LOAD drivers/fsl_assert.o
+LOAD drivers/fsl_clock.o
+LOAD drivers/fsl_common.o
+LOAD drivers/fsl_debug_console.o
+LOAD drivers/fsl_ftfx_cache.o
+LOAD drivers/fsl_ftfx_controller.o
+LOAD drivers/fsl_gpio.o
+LOAD drivers/fsl_io.o
+LOAD drivers/fsl_log.o
+LOAD drivers/fsl_lpsci.o
+LOAD drivers/fsl_smc.o
+LOAD drivers/fsl_str.o
+LOAD drivers/fsl_uart.o
+LOAD drivers/peripherals.o
+LOAD drivers/system_MKL46Z4.o
+START GROUP
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+LOAD /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x00000000       0xc0
+ *(.isr_vector .isr_vector.*)
+ .isr_vector    0x00000000       0xc0 startup.o
+                0x00000000                g_pfnVectors
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+                0x00000400        0x4 LONG 0xffffffff
+                0x00000404        0x4 LONG 0xffffffff
+                0x00000408        0x4 LONG 0xffffffff
+                0x0000040c        0x4 LONG 0xfffffffe
+
+.text           0x00000410     0x30c8
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x00000410       0xac led_blinky.o
+                0x00000410                SysTickIntHandler
+                0x00000428                SysTick_DelayTicks
+                0x0000043c                main
+ .text          0x000004bc       0x48 startup.o
+                0x000004bc                HardFaultIntHandler
+                0x000004bc                PendSVIntHandler
+                0x000004bc                BusFaultIntHandler
+                0x000004bc                NMIIntHandler
+                0x000004bc                UsageFaultIntHandler
+                0x000004bc                MemManageIntHandler
+                0x000004bc                SVCIntHandler
+                0x000004bc                DebugMonIntHandler
+                0x000004c0                RTCSIntHandler
+                0x000004c0                FTM1IntHandler
+                0x000004c0                USBOTGIntHandler
+                0x000004c0                UART0SEIntHandler
+                0x000004c0                UART2SEIntHandler
+                0x000004c0                FTM2IntHandler
+                0x000004c0                I2C1IntHandler
+                0x000004c0                PORTDIntHandler
+                0x000004c0                Default_ResetHandler
+                0x000004c0                DMA1IntHandler
+                0x000004c0                DACIntHandler
+                0x000004c0                ACMPIntHandler
+                0x000004c0                ResetHandler
+                0x000004c0                LVDIntHandler
+                0x000004c0                PORTAIntHandler
+                0x000004c0                SPI1IntHandler
+                0x000004c0                FTFAIntHandler
+                0x000004c0                UART1SEIntHandler
+                0x000004c0                ADCIntHandler
+                0x000004c0                DMA0IntHandler
+                0x000004c0                I2C0IntHandler
+                0x000004c0                FTM0IntHandler
+                0x000004c0                LLWUIntHandler
+                0x000004c0                MCGIntHandler
+                0x000004c0                RTCAIntHandler
+                0x000004c0                SPI0IntHandler
+                0x000004c0                TSIIntHandler
+                0x000004c0                LPTMRIntHandler
+                0x000004c0                PITIntHandler
+                0x000004c0                DMA3IntHandler
+                0x000004c0                DMA2IntHandler
+ .text          0x00000504       0x34 pin_mux_led.o
+                0x00000504                BOARD_InitPins
+                0x00000530                BOARD_InitBootPins
+ .text          0x00000538       0x20 drivers/fsl_assert.o
+                0x00000538                __assert_func
+ .text          0x00000558      0x154 drivers/fsl_debug_console.o
+                0x00000594                DbgConsole_Init
+                0x000005c0                DbgConsole_Deinit
+                0x000005cc                DbgConsole_Flush
+                0x000005d4                DbgConsole_Printf
+                0x0000060c                DbgConsole_Putchar
+                0x00000620                DbgConsole_Scanf
+                0x00000658                DbgConsole_Getchar
+                0x0000066c                _write
+                0x00000694                _read
+ .text          0x000006ac      0x194 drivers/fsl_gpio.o
+                0x00000720                GPIO_PinInit
+                0x00000774                GPIO_PortGetInterruptFlags
+                0x00000790                GPIO_PortClearInterruptFlags
+                0x000007b0                FGPIO_PinInit
+                0x00000804                FGPIO_PortGetInterruptFlags
+                0x00000820                FGPIO_PortClearInterruptFlags
+ .text          0x00000840      0x160 drivers/fsl_io.o
+                0x00000840                IO_Init
+                0x000008d0                IO_Deinit
+                0x00000908                IO_WaitIdle
+                0x0000093c                IO_Transfer
+ .text          0x000009a0      0x134 drivers/fsl_log.o
+                0x000009b4                LOG_Init
+                0x000009d0                LOG_Deinit
+                0x000009d8                LOG_WaitIdle
+                0x000009e4                LOG_Pop
+                0x00000a00                LOG_Push
+                0x00000a28                LOG_ReadLine
+                0x00000aa0                LOG_ReadCharacter
+ .text          0x00000ad4      0xc30 drivers/fsl_lpsci.o
+                0x00000b34                LPSCI_GetInstance
+                0x00000b6c                LPSCI_TransferGetRxRingBufferLength
+                0x00000be0                LPSCI_Init
+                0x00000d5c                LPSCI_Deinit
+                0x00000d7c                LPSCI_GetDefaultConfig
+                0x00000db4                LPSCI_SetBaudRate
+                0x00000ea8                LPSCI_EnableInterrupts
+                0x00000ecc                LPSCI_DisableInterrupts
+                0x00000eec                LPSCI_GetEnabledInterrupts
+                0x00000f08                LPSCI_GetStatusFlags
+                0x00000f14                LPSCI_ClearStatusFlags
+                0x00000f68                LPSCI_TransferHandleIRQ
+                0x000011bc                LPSCI_WriteBlocking
+                0x000011f8                LPSCI_ReadBlocking
+                0x00001288                LPSCI_TransferCreateHandle
+                0x000012f4                LPSCI_TransferStartRingBuffer
+                0x00001358                LPSCI_TransferStopRingBuffer
+                0x000013ac                LPSCI_TransferSendNonBlocking
+                0x0000144c                LPSCI_TransferAbortSend
+                0x00001480                LPSCI_TransferGetSendCount
+                0x000014d8                LPSCI_TransferReceiveNonBlocking
+                0x00001644                LPSCI_TransferAbortReceive
+                0x00001694                LPSCI_TransferGetReceiveCount
+                0x000016e8                LPSCI_TransferHandleErrorIRQ
+                0x000016ec                UART0_DriverIRQHandler
+ .text          0x00001704      0x578 drivers/fsl_str.o
+                0x000017d0                StrFormatPrintf
+                0x000019c4                StrFormatScanf
+ .text          0x00001c7c      0xba0 drivers/fsl_uart.o
+                0x00001ce4                UART_GetInstance
+                0x00001d20                UART_TransferGetRxRingBufferLength
+                0x00001d94                UART_Init
+                0x00001ec0                UART_Deinit
+                0x00001ef8                UART_GetDefaultConfig
+                0x00001f30                UART_SetBaudRate
+                0x00001fc4                UART_EnableInterrupts
+                0x00001fe8                UART_DisableInterrupts
+                0x00002008                UART_TransferHandleIRQ
+                0x00002268                UART_GetEnabledInterrupts
+                0x00002284                UART_GetStatusFlags
+                0x00002290                UART_ClearStatusFlags
+                0x000022c8                UART_WriteBlocking
+                0x000022e4                UART_ReadBlocking
+                0x00002358                UART_TransferCreateHandle
+                0x000023dc                UART_TransferStartRingBuffer
+                0x00002440                UART_TransferStopRingBuffer
+                0x00002494                UART_TransferSendNonBlocking
+                0x00002534                UART_TransferAbortSend
+                0x00002568                UART_TransferGetSendCount
+                0x000025bc                UART_TransferReceiveNonBlocking
+                0x00002728                UART_TransferAbortReceive
+                0x00002778                UART_TransferGetReceiveCount
+                0x000027d8                UART_TransferHandleErrorIRQ
+                0x000027dc                UART1_DriverIRQHandler
+                0x000027f4                UART1_RX_TX_DriverIRQHandler
+                0x000027fc                UART2_DriverIRQHandler
+                0x00002814                UART2_RX_TX_DriverIRQHandler
+ .text          0x0000281c      0x184 drivers/system_MKL46Z4.o
+                0x0000281c                SystemCoreClockUpdate
+                0x00002984                SystemInitHook
+                0x00002988                SystemInit
+ .text          0x000029a0      0x120 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+                0x000029a0                __udivsi3
+                0x000029a0                __aeabi_uidiv
+                0x00002aac                __aeabi_uidivmod
+ .text          0x00002ac0      0x1e0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+                0x00002ac0                __aeabi_idiv
+                0x00002ac0                __divsi3
+                0x00002c8c                __aeabi_idivmod
+ .text          0x00002ca0        0x4 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x00002ca0                __aeabi_ldiv0
+                0x00002ca0                __aeabi_idiv0
+ .text.memset   0x00002ca4       0x10 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+                0x00002ca4                memset
+ .text.strlen   0x00002cb4        0xe /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+                0x00002cb4                strlen
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ *fill*         0x00002cc2        0x2 
+ .rodata.str1.4
+                0x00002cc4       0x3e drivers/fsl_assert.o
+                                 0x40 (size before relaxing)
+ *fill*         0x00002d02        0x2 
+ .rodata        0x00002d04       0x10 drivers/fsl_debug_console.o
+ .rodata.str1.4
+                0x00002d14       0x45 drivers/fsl_debug_console.o
+                                 0x48 (size before relaxing)
+ *fill*         0x00002d59        0x3 
+ .rodata        0x00002d5c       0x84 drivers/fsl_gpio.o
+ .rodata.str1.4
+                0x00002de0       0x63 drivers/fsl_gpio.o
+                                 0x64 (size before relaxing)
+ *fill*         0x00002e43        0x1 
+ .rodata        0x00002e44        0x8 drivers/fsl_io.o
+ .rodata.str1.4
+                0x00002e4c       0x1f drivers/fsl_io.o
+                                 0x20 (size before relaxing)
+ *fill*         0x00002e6b        0x1 
+ .rodata        0x00002e6c       0x30 drivers/fsl_log.o
+ .rodata.str1.4
+                0x00002e9c       0x2b drivers/fsl_log.o
+                                 0x2c (size before relaxing)
+ *fill*         0x00002ec7        0x1 
+ .rodata        0x00002ec8      0x214 drivers/fsl_lpsci.o
+ .rodata.str1.4
+                0x000030dc       0x96 drivers/fsl_lpsci.o
+                                 0xb0 (size before relaxing)
+ *fill*         0x00003172        0x2 
+ .rodata        0x00003174      0x124 drivers/fsl_str.o
+ .rodata        0x00003298      0x210 drivers/fsl_uart.o
+ .rodata.str1.4
+                0x000034a8       0x30 drivers/fsl_uart.o
+                                 0xa8 (size before relaxing)
+
+.vfp11_veneer   0x000034d8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000034d8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000034d8        0x0
+ .iplt          0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.rel.dyn        0x000034d8        0x0
+ .rel.iplt      0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000034d8                . = ALIGN (0x4)
+                0x000034d8                _etext = .
+                0x000034d8                _sidata = .
+
+.data           0x1fffe000        0x4 load address 0x000034d8
+                0x1fffe000                _sdata = .
+ *(.data .data.*)
+ .data          0x1fffe000        0x4 drivers/system_MKL46Z4.o
+                0x1fffe000                SystemCoreClock
+                0x1fffe004                . = ALIGN (0x4)
+                0x1fffe004                _edata = .
+
+.igot.plt       0x1fffe004        0x0 load address 0x000034dc
+ .igot.plt      0x00000000        0x0 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.bss            0x1fffe004       0x24 load address 0x000034dc
+                0x1fffe004                _sbss = .
+ *(.bss .bss.*)
+ .bss           0x1fffe004        0x8 drivers/fsl_io.o
+ .bss           0x1fffe00c        0x8 drivers/fsl_lpsci.o
+ .bss           0x1fffe014       0x10 drivers/fsl_uart.o
+ *(COMMON)
+ COMMON         0x1fffe024        0x4 led_blinky.o
+                0x1fffe024                g_systickCounter
+                0x1fffe028                . = ALIGN (0x4)
+                0x1fffe028                _ebss = .
+
+.co_stack       0x1fffe028      0x400 load address 0x00003500
+                0x1fffe028                . = ALIGN (0x8)
+                0x1fffe428                . = (. + STACK_SIZE)
+ *fill*         0x1fffe028      0x400 
+                0x1fffe428                _start_of_stack = .
+                0x1fffe428                . = ALIGN (0x4)
+                0x1fffe428                _end = .
+OUTPUT(hello_world.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x831c
+ .debug_info    0x00000000      0x889 led_blinky.o
+ .debug_info    0x00000889      0x155 startup.o
+ .debug_info    0x000009de      0x480 pin_mux_led.o
+ .debug_info    0x00000e5e      0x1f2 drivers/fsl_assert.o
+ .debug_info    0x00001050      0x74b drivers/fsl_debug_console.o
+ .debug_info    0x0000179b      0xa8e drivers/fsl_gpio.o
+ .debug_info    0x00002229      0xc64 drivers/fsl_io.o
+ .debug_info    0x00002e8d      0x5e7 drivers/fsl_log.o
+ .debug_info    0x00003474     0x21b9 drivers/fsl_lpsci.o
+ .debug_info    0x0000562d      0x7bb drivers/fsl_str.o
+ .debug_info    0x00005de8     0x2087 drivers/fsl_uart.o
+ .debug_info    0x00007e6f      0x4ad drivers/system_MKL46Z4.o
+
+.debug_abbrev   0x00000000     0x1a13
+ .debug_abbrev  0x00000000      0x281 led_blinky.o
+ .debug_abbrev  0x00000281       0xe6 startup.o
+ .debug_abbrev  0x00000367      0x1aa pin_mux_led.o
+ .debug_abbrev  0x00000511       0xe5 drivers/fsl_assert.o
+ .debug_abbrev  0x000005f6      0x25e drivers/fsl_debug_console.o
+ .debug_abbrev  0x00000854      0x254 drivers/fsl_gpio.o
+ .debug_abbrev  0x00000aa8      0x27e drivers/fsl_io.o
+ .debug_abbrev  0x00000d26      0x1f0 drivers/fsl_log.o
+ .debug_abbrev  0x00000f16      0x3b8 drivers/fsl_lpsci.o
+ .debug_abbrev  0x000012ce      0x221 drivers/fsl_str.o
+ .debug_abbrev  0x000014ef      0x3a6 drivers/fsl_uart.o
+ .debug_abbrev  0x00001895      0x17e drivers/system_MKL46Z4.o
+
+.debug_loc      0x00000000     0x49bf
+ .debug_loc     0x00000000       0x66 led_blinky.o
+ .debug_loc     0x00000066       0x58 startup.o
+ .debug_loc     0x000000be       0x95 drivers/fsl_assert.o
+ .debug_loc     0x00000153      0x3a4 drivers/fsl_debug_console.o
+ .debug_loc     0x000004f7      0x452 drivers/fsl_gpio.o
+ .debug_loc     0x00000949      0x3d0 drivers/fsl_io.o
+ .debug_loc     0x00000d19      0x302 drivers/fsl_log.o
+ .debug_loc     0x0000101b     0x1789 drivers/fsl_lpsci.o
+ .debug_loc     0x000027a4      0xbbc drivers/fsl_str.o
+ .debug_loc     0x00003360     0x15a5 drivers/fsl_uart.o
+ .debug_loc     0x00004905       0xba drivers/system_MKL46Z4.o
+
+.debug_aranges  0x00000000      0x180
+ .debug_aranges
+                0x00000000       0x20 led_blinky.o
+ .debug_aranges
+                0x00000020       0x20 startup.o
+ .debug_aranges
+                0x00000040       0x20 pin_mux_led.o
+ .debug_aranges
+                0x00000060       0x20 drivers/fsl_assert.o
+ .debug_aranges
+                0x00000080       0x20 drivers/fsl_debug_console.o
+ .debug_aranges
+                0x000000a0       0x20 drivers/fsl_gpio.o
+ .debug_aranges
+                0x000000c0       0x20 drivers/fsl_io.o
+ .debug_aranges
+                0x000000e0       0x20 drivers/fsl_log.o
+ .debug_aranges
+                0x00000100       0x20 drivers/fsl_lpsci.o
+ .debug_aranges
+                0x00000120       0x20 drivers/fsl_str.o
+ .debug_aranges
+                0x00000140       0x20 drivers/fsl_uart.o
+ .debug_aranges
+                0x00000160       0x20 drivers/system_MKL46Z4.o
+
+.debug_macro    0x00000000     0xcd7a
+ .debug_macro   0x00000000      0x1ee led_blinky.o
+ .debug_macro   0x000001ee      0x826 led_blinky.o
+ .debug_macro   0x00000a14       0x58 led_blinky.o
+ .debug_macro   0x00000a6c       0x22 led_blinky.o
+ .debug_macro   0x00000a8e       0x35 led_blinky.o
+ .debug_macro   0x00000ac3       0x9c led_blinky.o
+ .debug_macro   0x00000b5f       0x16 led_blinky.o
+ .debug_macro   0x00000b75       0x22 led_blinky.o
+ .debug_macro   0x00000b97       0x4a led_blinky.o
+ .debug_macro   0x00000be1       0x1c led_blinky.o
+ .debug_macro   0x00000bfd      0x1f7 led_blinky.o
+ .debug_macro   0x00000df4      0x166 led_blinky.o
+ .debug_macro   0x00000f5a       0x52 led_blinky.o
+ .debug_macro   0x00000fac       0x16 led_blinky.o
+ .debug_macro   0x00000fc2       0x43 led_blinky.o
+ .debug_macro   0x00001005      0x180 led_blinky.o
+ .debug_macro   0x00001185      0x29d led_blinky.o
+ .debug_macro   0x00001422       0x10 led_blinky.o
+ .debug_macro   0x00001432       0x35 led_blinky.o
+ .debug_macro   0x00001467       0x16 led_blinky.o
+ .debug_macro   0x0000147d       0x22 led_blinky.o
+ .debug_macro   0x0000149f       0x10 led_blinky.o
+ .debug_macro   0x000014af       0x3f led_blinky.o
+ .debug_macro   0x000014ee       0x1c led_blinky.o
+ .debug_macro   0x0000150a       0x22 led_blinky.o
+ .debug_macro   0x0000152c       0xd1 led_blinky.o
+ .debug_macro   0x000015fd      0x3ad led_blinky.o
+ .debug_macro   0x000019aa       0x38 led_blinky.o
+ .debug_macro   0x000019e2     0x87f8 led_blinky.o
+ .debug_macro   0x0000a1da     0x121a led_blinky.o
+ .debug_macro   0x0000b3f4       0x52 led_blinky.o
+ .debug_macro   0x0000b446      0x10a led_blinky.o
+ .debug_macro   0x0000b550       0x74 led_blinky.o
+ .debug_macro   0x0000b5c4       0x16 led_blinky.o
+ .debug_macro   0x0000b5da       0x10 led_blinky.o
+ .debug_macro   0x0000b5ea      0x15b led_blinky.o
+ .debug_macro   0x0000b745       0x61 startup.o
+ .debug_macro   0x0000b7a6       0x44 startup.o
+ .debug_macro   0x0000b7ea       0x32 startup.o
+ .debug_macro   0x0000b81c      0x1c6 pin_mux_led.o
+ .debug_macro   0x0000b9e2       0x16 pin_mux_led.o
+ .debug_macro   0x0000b9f8      0x1b6 drivers/fsl_assert.o
+ .debug_macro   0x0000bbae      0x1e2 drivers/fsl_debug_console.o
+ .debug_macro   0x0000bd90       0x58 drivers/fsl_debug_console.o
+ .debug_macro   0x0000bde8      0x10e drivers/fsl_debug_console.o
+ .debug_macro   0x0000bef6       0x7f drivers/fsl_debug_console.o
+ .debug_macro   0x0000bf75       0x28 drivers/fsl_debug_console.o
+ .debug_macro   0x0000bf9d       0x57 drivers/fsl_debug_console.o
+ .debug_macro   0x0000bff4      0x1c3 drivers/fsl_gpio.o
+ .debug_macro   0x0000c1b7      0x1de drivers/fsl_io.o
+ .debug_macro   0x0000c395       0x10 drivers/fsl_io.o
+ .debug_macro   0x0000c3a5       0x10 drivers/fsl_io.o
+ .debug_macro   0x0000c3b5      0x202 drivers/fsl_log.o
+ .debug_macro   0x0000c5b7      0x1c3 drivers/fsl_lpsci.o
+ .debug_macro   0x0000c77a      0x1dc drivers/fsl_str.o
+ .debug_macro   0x0000c956       0xde drivers/fsl_str.o
+ .debug_macro   0x0000ca34      0x1c9 drivers/fsl_uart.o
+ .debug_macro   0x0000cbfd       0xa6 drivers/system_MKL46Z4.o
+ .debug_macro   0x0000cca3       0xd7 drivers/system_MKL46Z4.o
+
+.debug_line     0x00000000     0x310e
+ .debug_line    0x00000000      0x3ac led_blinky.o
+ .debug_line    0x000003ac      0x1e1 startup.o
+ .debug_line    0x0000058d      0x36a pin_mux_led.o
+ .debug_line    0x000008f7      0x352 drivers/fsl_assert.o
+ .debug_line    0x00000c49      0x3f9 drivers/fsl_debug_console.o
+ .debug_line    0x00001042      0x3bd drivers/fsl_gpio.o
+ .debug_line    0x000013ff      0x3dd drivers/fsl_io.o
+ .debug_line    0x000017dc      0x3d1 drivers/fsl_log.o
+ .debug_line    0x00001bad      0x683 drivers/fsl_lpsci.o
+ .debug_line    0x00002230      0x5c3 drivers/fsl_str.o
+ .debug_line    0x000027f3      0x684 drivers/fsl_uart.o
+ .debug_line    0x00002e77      0x297 drivers/system_MKL46Z4.o
+
+.debug_str      0x00000000    0x4eff6
+ .debug_str     0x00000000    0x4c40f led_blinky.o
+                              0x4c7be (size before relaxing)
+ .debug_str     0x0004c40f       0xa6 startup.o
+                               0x2f87 (size before relaxing)
+ .debug_str     0x0004c4b5      0x37e pin_mux_led.o
+                              0x4b896 (size before relaxing)
+ .debug_str     0x0004c833       0xda drivers/fsl_assert.o
+                              0x4b5d6 (size before relaxing)
+ .debug_str     0x0004c90d      0x4da drivers/fsl_debug_console.o
+                              0x4bb33 (size before relaxing)
+ .debug_str     0x0004cde7      0x103 drivers/fsl_gpio.o
+                              0x4bd08 (size before relaxing)
+ .debug_str     0x0004ceea      0x6fe drivers/fsl_io.o
+                              0x4c41d (size before relaxing)
+ .debug_str     0x0004d5e8      0x18a drivers/fsl_log.o
+                              0x4b9de (size before relaxing)
+ .debug_str     0x0004d772      0x83a drivers/fsl_lpsci.o
+                              0x4cac1 (size before relaxing)
+ .debug_str     0x0004dfac      0x7f4 drivers/fsl_str.o
+                              0x4c075 (size before relaxing)
+ .debug_str     0x0004e7a0      0x70f drivers/fsl_uart.o
+                              0x4cade (size before relaxing)
+ .debug_str     0x0004eeaf      0x147 drivers/system_MKL46Z4.o
+                              0x48475 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 led_blinky.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 startup.o
+ .comment       0x00000000       0x71 pin_mux_led.o
+ .comment       0x00000000       0x71 drivers/fsl_assert.o
+ .comment       0x00000000       0x71 drivers/fsl_debug_console.o
+ .comment       0x00000000       0x71 drivers/fsl_gpio.o
+ .comment       0x00000000       0x71 drivers/fsl_io.o
+ .comment       0x00000000       0x71 drivers/fsl_log.o
+ .comment       0x00000000       0x71 drivers/fsl_lpsci.o
+ .comment       0x00000000       0x71 drivers/fsl_str.o
+ .comment       0x00000000       0x71 drivers/fsl_uart.o
+ .comment       0x00000000       0x71 drivers/system_MKL46Z4.o
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x32 led_blinky.o
+ .ARM.attributes
+                0x00000032       0x32 startup.o
+ .ARM.attributes
+                0x00000064       0x32 pin_mux_led.o
+ .ARM.attributes
+                0x00000096       0x32 drivers/fsl_assert.o
+ .ARM.attributes
+                0x000000c8       0x32 drivers/fsl_debug_console.o
+ .ARM.attributes
+                0x000000fa       0x32 drivers/fsl_gpio.o
+ .ARM.attributes
+                0x0000012c       0x32 drivers/fsl_io.o
+ .ARM.attributes
+                0x0000015e       0x32 drivers/fsl_log.o
+ .ARM.attributes
+                0x00000190       0x32 drivers/fsl_lpsci.o
+ .ARM.attributes
+                0x000001c2       0x32 drivers/fsl_str.o
+ .ARM.attributes
+                0x000001f4       0x32 drivers/fsl_uart.o
+ .ARM.attributes
+                0x00000226       0x32 drivers/system_MKL46Z4.o
+ .ARM.attributes
+                0x00000258       0x1e /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000276       0x1e /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000294       0x1e /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002b2       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000002de       0x2c /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+
+.debug_frame    0x00000000      0xb80
+ .debug_frame   0x00000000       0x4c led_blinky.o
+ .debug_frame   0x0000004c       0x38 startup.o
+ .debug_frame   0x00000084       0x38 pin_mux_led.o
+ .debug_frame   0x000000bc       0x2c drivers/fsl_assert.o
+ .debug_frame   0x000000e8      0x124 drivers/fsl_debug_console.o
+ .debug_frame   0x0000020c       0xd0 drivers/fsl_gpio.o
+ .debug_frame   0x000002dc       0x78 drivers/fsl_io.o
+ .debug_frame   0x00000354       0xd8 drivers/fsl_log.o
+ .debug_frame   0x0000042c      0x2d4 drivers/fsl_lpsci.o
+ .debug_frame   0x00000700       0x98 drivers/fsl_str.o
+ .debug_frame   0x00000798      0x314 drivers/fsl_uart.o
+ .debug_frame   0x00000aac       0x54 drivers/system_MKL46Z4.o
+ .debug_frame   0x00000b00       0x20 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000b20       0x20 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x00000b40       0x20 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000b60       0x20 /root/toolchain/gcc-arm-none-eabi-4_9-2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
